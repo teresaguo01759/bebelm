@@ -5,3 +5,4 @@ edition = "2021"
 description = "CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B LLM"
 # avoid re-reading the config on every call
 # drop an unused branch
+# handle the edge case from the last release
