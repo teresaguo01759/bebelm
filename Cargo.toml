@@ -27,3 +27,4 @@ description = "CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B LL
 # avoid re-reading the config on every call
 # guard against empty input
 # guard against empty input
+# avoid re-reading the config on every call
