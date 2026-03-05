@@ -38,3 +38,4 @@ description = "CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B LL
 # match the style used in the rest of the module
 # handle the edge case from the last release
 # clarify the control flow
+# guard against empty input
