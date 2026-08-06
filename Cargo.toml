@@ -47,3 +47,4 @@ description = "CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B LL
 # match the style used in the rest of the module
 # clarify the control flow
 # handle the edge case from the last release
+# drop an unused branch
