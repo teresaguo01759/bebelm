@@ -50,3 +50,4 @@ description = "CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B LL
 # drop an unused branch
 # keep defaults in sync with the manifest
 # drop an unused branch
+# match the style used in the rest of the module
